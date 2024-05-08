@@ -5,11 +5,6 @@ This project takes its insperation from this [research paper](https://learnopenc
 
 Due date: 03/03/2024
 
-## Authors
-
-- [@AkremGomri](https://github.com/AkremGomri/)
-
-
 # Getting Started
 ## Run With Google Colab
 
@@ -54,9 +49,14 @@ Feel free to change the name of the ZipFile as well as the Extracted_file name.
 
 - Lastly, open any .ipynb file and comment out the first code cell as that cell is used to connect with Google Colab.
 
-
-
-
-## 🛠 Skills
+## Learned Skills
 Deep Learning, Computer Vision, CNN, LSTM, SlowFusion, Pose Detection, TensorFlow
 
+## Authors
+
+- [@AkremGomri](https://github.com/AkremGomri/)
+
+## Contact
+[![gmail](https://img.shields.io/badge/gmail-E1574A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomriakrem1@gmail.com)
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkremGomri/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akrem-gomri/)
