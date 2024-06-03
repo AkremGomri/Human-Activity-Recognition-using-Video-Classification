@@ -3,6 +3,8 @@
 
 This project takes its insperation from this [research paper](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/) within the context of a university project at UPEC in Paris. 
 
+We used several techniques and compared them: Simple CNN, CNN + LSTM, Pose Detection, 3D CNN, and the Slow Fusion technique.
+
 Due date: 03/03/2024
 
 # Getting Started
